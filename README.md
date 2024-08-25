@@ -1,7 +1,7 @@
 
 # PDF to Quiz Generator
 
-This project is a Streamlit application that allows users to upload a PDF, extract its text, and automatically generate a quiz with multiple-choice questions based on the document content. The application leverages OpenAI's GPT-4 to create questions and validate the answers. The quiz is presented in a user-friendly interface where participants can select their answers and view the results immediately.
+This project is a Streamlit application that allows users to upload a PDF, extract its text, and automatically generate a quiz with multiple-choice questions based on the document content. The application leverages OpenAI's GPT-4 to create questions and validate the answers. The quiz is presented in a user-friendly interface where participants can select their answers and view the results immediately. We can use this to instantly setup and prepare for any kinds of exams and tests.
 
 ## Features
 
@@ -10,9 +10,14 @@ This project is a Streamlit application that allows users to upload a PDF, extra
 - **Interactive Quiz:** Present the questions in an interactive format using Streamlit, allowing users to submit their answers and view results.
 - **Dockerized Setup:** Easily deploy and run the application using Docker for a consistent environment.
 
-- ![Screenshot 2024-08-25 131854](https://github.com/user-attachments/assets/fe9787bf-c67b-4c55-a6e9-0c20dcdf8ff3)
-- ![Screenshot 2024-08-25 131928](https://github.com/user-attachments/assets/f66203ce-9c8f-4c26-8e58-92a5288eec81)
-- ![Screenshot 2024-08-25 131944](https://github.com/user-attachments/assets/3cbfe6a4-05ce-4d5b-aed9-059f15d8760a)
+## Home Page
+![Screenshot 2024-08-25 131854](https://github.com/user-attachments/assets/fe9787bf-c67b-4c55-a6e9-0c20dcdf8ff3)
+
+## Quiz Session
+![Screenshot 2024-08-25 131928](https://github.com/user-attachments/assets/f66203ce-9c8f-4c26-8e58-92a5288eec81)
+
+## Submission Results
+![Screenshot 2024-08-25 131944](https://github.com/user-attachments/assets/3cbfe6a4-05ce-4d5b-aed9-059f15d8760a)
 
 
 
