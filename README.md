@@ -10,6 +10,13 @@ This project is a Streamlit application that allows users to upload a PDF, extra
 - **Interactive Quiz:** Present the questions in an interactive format using Streamlit, allowing users to submit their answers and view results.
 - **Dockerized Setup:** Easily deploy and run the application using Docker for a consistent environment.
 
+- ![Screenshot 2024-08-25 131854](https://github.com/user-attachments/assets/fe9787bf-c67b-4c55-a6e9-0c20dcdf8ff3)
+- ![Screenshot 2024-08-25 131928](https://github.com/user-attachments/assets/f66203ce-9c8f-4c26-8e58-92a5288eec81)
+- ![Screenshot 2024-08-25 131944](https://github.com/user-attachments/assets/3cbfe6a4-05ce-4d5b-aed9-059f15d8760a)
+
+
+
+
 ## Prerequisites
 
 - Python 3.10 or higher
