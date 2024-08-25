@@ -1,0 +1,6 @@
+llama-index
+streamlit
+openai
+PyPDF2
+pillow
+pdf2image
